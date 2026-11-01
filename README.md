@@ -53,8 +53,9 @@ Para adicionar seu LinkedIn, substitua o endereço abaixo e remova este comentá
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ricktrem7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub de Henrique">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricktrem7&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br" alt="Linguagens mais utilizadas por Henrique">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ricktrem7&theme=tokyonight" alt="Resumo das contribuições de Henrique" width="100%">
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ricktrem7&theme=tokyonight" alt="Estatísticas do GitHub de Henrique">
 </div>
 
 ---
