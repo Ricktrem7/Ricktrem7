@@ -23,16 +23,16 @@ Transformando ideias em experiências digitais com código limpo, interfaces int
   <a href="https://github.com/Ricktrem7" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+  <a href="https://www.instagram.com/henriqueas___/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </p>
 
 <!--
-Para adicionar suas redes sociais, substitua os endereços abaixo e remova este comentário:
+Para adicionar seu LinkedIn, substitua o endereço abaixo e remova este comentário:
 
 <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://www.instagram.com/SEU_INSTAGRAM" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 -->
 
