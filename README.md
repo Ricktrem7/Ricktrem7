@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F2027,50:203A43,100:2C5364&text=Henrique%20Arruda%20Sampaio&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Motion%20Designer&descAlignY=58&descSize=18&animation=fadeIn" alt="Henrique Arruda Sampaio — Full Stack Developer e Motion Designer" width="100%"> <a href="https://github.com/Ricktrem7"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Desenvolvedor+Full+Stack;Sites%2C+E-commerce+e+Sistemas+SaaS;Next.js+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+Supabase;Motion+Design+com+After+Effects+e+Remotion;Transformando+ideias+em+produtos+digitais" alt="Texto animado: Desenvolvedor Full Stack, Sites, E-commerce e SaaS, Next.js, React, TypeScript, Supabase, Motion Design"> </a> <br> <img src="https://komarev.com/ghpvc/?username=Ricktrem7&label=Visitas&color=0e75b6&style=flat" alt="Contador de visitas do perfil"> </div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F2027,50:203A43,100:2C5364&text=Henrique%20Arruda%20Sampaio&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Motion%20Designer&descAlignY=58&descSize=18&animation=fadeIn" alt="Henrique Arruda Sampaio — Full Stack Developer e Motion Designer" width="100%"> <a href="https://github.com/Ricktrem7"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Desenvolvedor+Full+Stack;Sites%2C+E-commerce+e+Sistemas+SaaS;Next.js+%C2%B7+React+%C2%B7+Java+%C2%B7+Hostinger+VPS;Motion+Design+com+After+Effects+e+Remotion;Transformando+ideias+em+produtos+digitais" alt="Texto animado: Desenvolvedor Full Stack, Sites, E-commerce e SaaS, Next.js, React, Java, Hostinger VPS, Motion Design"> </a> <br> <img src="https://komarev.com/ghpvc/?username=Ricktrem7&label=Visitas&color=0e75b6&style=flat" alt="Contador de visitas do perfil"> </div>
 👨‍💻 Sobre mim
 
 Sou desenvolvedor Full Stack e construo produtos digitais de ponta a ponta: do design da interface ao banco de dados, passando por integrações de pagamento e deploy em produção. Também crio vídeos e animações em motion design para dar vida a marcas e produtos.
@@ -15,15 +15,15 @@ Sou desenvolvedor Full Stack e construo produtos digitais de ponta a ponta: do d
 
 Linguagens
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,postgres" alt="HTML, CSS, JavaScript, TypeScript, C# e SQL">
+<img src="https://skillicons.dev/icons?i=html,css,js,java,cs,postgres" alt="HTML, CSS, JavaScript, Java, C# e SQL">
 
 Front-end e Back-end
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs" alt="React, Next.js e Node.js">
 
-Banco de dados e Cloud
+Banco de dados e Hospedagem
 
-<img src="https://skillicons.dev/icons?i=supabase,postgres" alt="Supabase e PostgreSQL">
+<img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Hostinger%20VPS-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger VPS">
 
 Ferramentas
 
